@@ -1,31 +1,22 @@
 {
   "sites": [
     {
-      "key": "非",
-      "name": "非",
-      "type": 0,
-      "playUrl": "http://api.ffzyapi.com/api.php/provide/vod/from/feifan/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "量",
-      "name": "量",
-      "type": 0,
-      "playUrl": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "1",
       "name": "1",
       "type": 0,
-      "playUrl": "https://www.hongniuzy3.com/api.php/provide/vod/at/xml/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "2",
+      "name": "2",
+      "type": 0,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/feifan/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
