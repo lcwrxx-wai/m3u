@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.nodeimage.com/i/GPbV85PSZZdWoUf4W40drVXWDJCc3PfP.webp" group-title="公告",公告
+http://nba.3691065.site/play/custom/626?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png" group-title="线性频道",NBATV(CA)
+http://nba.3691065.site/play/36787?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbatv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/500px-NBA_TV.svg.png" group-title="线性频道",NBATV(US)
+http://nba.3691065.site/play/29485?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/500px-NBC_logo_2022_%28vertical%29.svg.png" group-title="线性频道",NBC (EAST)
+http://nba.3691065.site/play/109698?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/500px-NBC_logo_2022_%28vertical%29.svg.png" group-title="线性频道",NBC (WEST)
+http://nba.3691065.site/play/109603?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/usa-network-20261031.png" group-title="线性频道",USA Network
+http://nba.3691065.site/play/custom/1064?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/espn.png" group-title="线性频道",ESPN
+http://nba.3691065.site/play/119665?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/espn2.png" group-title="线性频道",ESPN2
+http://nba.3691065.site/play/119666?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/espnnews.png" group-title="线性频道",ESPN NEWS
+http://nba.3691065.site/play/1275?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/500px-ABC-2021-LOGO.svg.png" group-title="线性频道",ABC (EAST)
+http://nba.3691065.site/play/109827?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/500px-ABC-2021-LOGO.svg.png" group-title="线性频道",ABC (WEST)
+http://nba.3691065.site/play/109805?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/tsn-east-4k.png" group-title="线性频道",TSN 4K East
+http://nba.3691065.site/play/119333?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/tsn-west-4k.png" group-title="线性频道",TSN 4K West
+http://nba.3691065.site/play/119334?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/sportsnet-4k-20261101.png" group-title="线性频道",Sportsnet 4K
+http://nba.3691065.site/play/119328?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/sportsnet-one-4k-20261101.png" group-title="线性频道",Sportsnet One 4K
+http://nba.3691065.site/play/119329?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/sky-sports-main-event-4k.png" group-title="线性频道",Sky Sports Main Event 4K
+http://nba.3691065.site/play/120398?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="msg.us" tvg-logo="http://192.236.222.212:8090/logos/teams/nyk.png" group-title="线性频道",MSG (尼克斯)
+http://nba.3691065.site/play/33474?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/nyk.png" group-title="线性频道",MSG 2（尼克斯）
+http://nba.3691065.site/play/100710?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-logo="http://192.236.222.212:8090/logos/teams/bkn.png" group-title="线性频道",YES NETWORK (篮网)
+http://nba.3691065.site/play/33762?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/cha.png" group-title="线性频道",ABC (WSOC) Charlotte NC (黄蜂)
+http://nba.3691065.site/play/109826?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/det.png" group-title="线性频道",ABC (WXYZ) Detroit MI (活塞)
+http://nba.3691065.site/play/109829?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-logo="http://192.236.222.212:8090/logos/teams/lal.png" group-title="线性频道",SPECTRUM SPORTSNET (湖人)
+http://nba.3691065.site/play/89362?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/uta.png" group-title="线性频道",KJZZ(爵士)
+http://nba.3691065.site/play/custom/283?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-logo="http://192.236.222.212:8090/logos/teams/gsw.png" group-title="线性频道",NBCSN BAY AREA (勇士)
+http://nba.3691065.site/play/1730?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/gsw.png" group-title="线性频道",NBCSN BAY AREA PLUS (勇士)
+http://nba.3691065.site/play/117815?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-logo="http://192.236.222.212:8090/logos/teams/bos.png" group-title="线性频道",NBCSN BOSTON (凯尔特人)
+http://nba.3691065.site/play/1732?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-logo="http://192.236.222.212:8090/logos/teams/chi.png" group-title="线性频道",CHICAGO SPORTS NETWORK (公牛)
+http://nba.3691065.site/play/1731?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="spacecityhomenetwork.us" tvg-logo="http://192.236.222.212:8090/logos/teams/hou.png" group-title="线性频道",SPACE CITY HOME NETWORK (火箭)
+http://nba.3691065.site/play/96149?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-logo="http://192.236.222.212:8090/logos/teams/phi.png" group-title="线性频道",NBCSN PHILLY (76人)
+http://nba.3691065.site/play/1734?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbcsportsphiladelphiaplus.us" tvg-logo="http://192.236.222.212:8090/logos/teams/phi.png" group-title="线性频道",NBCSN PHILLY PLUS (76人)
+http://nba.3691065.site/play/110090?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/mil.png" group-title="线性频道",My24（雄鹿）
+http://nba.3691065.site/play/custom/281?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="monumentalsportsnetwork.us" tvg-logo="http://192.236.222.212:8090/logos/teams/was.png" group-title="线性频道",MONUMENTAL SPORTS (奇才)
+http://nba.3691065.site/play/81822?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/mil.png" group-title="线性频道",My 24（雄鹿，备用）
+http://nba.3691065.site/play/custom/282?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-logo="http://192.236.222.212:8090/logos/teams/sac.png" group-title="线性频道",NBCSN CALIFORNIA (国王)
+http://nba.3691065.site/play/35437?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="nbcsportscaliforniaplus.us" tvg-logo="http://192.236.222.212:8090/logos/teams/sac.png" group-title="线性频道",NBCSN CALIFORNIA PLUS (国王)
+http://nba.3691065.site/play/117814?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/atl.png" group-title="线性频道",Atlanta News First (WANF) Atlanta GA (老鹰)
+http://nba.3691065.site/play/109453?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/orl.png" group-title="线性频道",ABC (WFTV) Orlando FL (魔术)
+http://nba.3691065.site/play/118533?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/phx.png" group-title="线性频道",ARIZONA FAMILY PHOENIX 3TV (KTVK)  (太阳)
+http://nba.3691065.site/play/33761?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/dal.png" group-title="线性频道",ABC (WFAA) Dallas TX (独行侠)
+http://nba.3691065.site/play/109815?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="altitudesport.us" tvg-logo="http://192.236.222.212:8090/logos/teams/den.png" group-title="线性频道",ALTITUDE SPORTS (掘金)
+http://nba.3691065.site/play/111008?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/den.png" group-title="线性频道",ALTITUDE SPORTS 2 (掘金)
+http://nba.3691065.site/play/117812?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/por.png" group-title="线性频道",ABC (KATU) Portland OR (开拓者)
+http://nba.3691065.site/play/110975?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/no.png" group-title="线性频道",FOX (WVUE) New Orleans LA (鹈鹕)
+http://nba.3691065.site/play/109564?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="cw.us" tvg-logo="http://192.236.222.212:8090/logos/teams/lac.png" group-title="线性频道",CW (KTLA 5) (快船)
+http://nba.3691065.site/play/98469?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/ind.png" group-title="线性频道",FOX (WXIN) Indianapolis IN (步行者)
+http://nba.3691065.site/play/109566?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/min.png" group-title="线性频道",NBC (KARE) Minneapolis MN (森林狼)
+http://nba.3691065.site/play/109581?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/cle.png" group-title="线性频道",CBS (WOIO) Shaker Heights OH (骑士)
+http://nba.3691065.site/play/109466?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/sas.png" group-title="线性频道",NBC (WOAI) San Antonio TX (马刺)
+http://nba.3691065.site/play/109703?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/teams/no.png" group-title="线性频道",GULF COAST SPORTS & ENT (鹈鹕)
+http://nba.3691065.site/play/119894?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",TSN 1 (猛龙)
+http://nba.3691065.site/play/1621?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",TSN 2 (猛龙)
+http://nba.3691065.site/play/1622?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",TSN 3 (猛龙)
+http://nba.3691065.site/play/1623?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",TSN 4 (猛龙)
+http://nba.3691065.site/play/1624?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",TSN 5 (猛龙)
+http://nba.3691065.site/play/1625?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",SPORTSNET EAST (猛龙)
+http://nba.3691065.site/play/114703?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",SPORTSNET ONE (猛龙)
+http://nba.3691065.site/play/26001?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",SPORTSNET WEST (猛龙)
+http://nba.3691065.site/play/110725?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",SPORTSNET 360 (猛龙)
+http://nba.3691065.site/play/26000?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="线性频道",SPORTSNET WORLD (猛龙)
+http://nba.3691065.site/play/1619?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/119713.png?v=modern" group-title="NBALP",NBA 10:00 太阳 vs 魔术(太阳信号)
+http://nba.3691065.site/play/119713?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/119714.png?v=modern" group-title="NBALP",NBA 10:00 太阳 vs 魔术(魔术信号)
+http://nba.3691065.site/play/119714?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/119715.png?v=modern" group-title="NBALP",NBA 11:00 勇士 vs 热火(勇士信号)
+http://nba.3691065.site/play/119715?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/119716.png?v=modern" group-title="NBALP",NBA 11:00 勇士 vs 热火(热火信号)
+http://nba.3691065.site/play/119716?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 09:
+http://nba.3691065.site/play/119721?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 05:
+http://nba.3691065.site/play/119717?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 06:
+http://nba.3691065.site/play/119718?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 07:
+http://nba.3691065.site/play/119719?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 08:
+http://nba.3691065.site/play/119720?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 10:
+http://nba.3691065.site/play/119722?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 11:
+http://nba.3691065.site/play/119723?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 12:
+http://nba.3691065.site/play/119724?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 13:
+http://nba.3691065.site/play/119725?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 17:
+http://nba.3691065.site/play/119729?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 16:
+http://nba.3691065.site/play/119728?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 14:
+http://nba.3691065.site/play/119726?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 15:
+http://nba.3691065.site/play/119727?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 18:
+http://nba.3691065.site/play/119730?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 19:
+http://nba.3691065.site/play/119731?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 20:
+http://nba.3691065.site/play/119732?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 21:
+http://nba.3691065.site/play/119733?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 22:
+http://nba.3691065.site/play/119734?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 23:
+http://nba.3691065.site/play/119735?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 24:
+http://nba.3691065.site/play/119736?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 25:
+http://nba.3691065.site/play/119737?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 26:
+http://nba.3691065.site/play/119738?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 27:
+http://nba.3691065.site/play/119739?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 28:
+http://nba.3691065.site/play/119740?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 29:
+http://nba.3691065.site/play/119741?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/nba-official.png" group-title="NBALP",NBALP 30:
+http://nba.3691065.site/play/119742?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="AtlantaHawks.nba" tvg-logo="http://192.236.222.212:8090/logos/teams/atl.png" group-title="Teams",老鹰
+http://nba.3691065.site/play/102109?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/bos.png" group-title="Teams",凯尔特人
+http://nba.3691065.site/play/102110?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/bkn.png" group-title="Teams",篮网
+http://nba.3691065.site/play/102111?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/cha.png" group-title="Teams",黄蜂
+http://nba.3691065.site/play/102112?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="ChicagoBulls.nba" tvg-logo="http://192.236.222.212:8090/logos/teams/chi.png" group-title="Teams",公牛
+http://nba.3691065.site/play/102113?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/cle.png" group-title="Teams",骑士
+http://nba.3691065.site/play/102114?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="NBALeaguePassDallasMavericks.us" tvg-logo="http://192.236.222.212:8090/logos/teams/dal.png" group-title="Teams",独行侠
+http://nba.3691065.site/play/102115?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/den.png" group-title="Teams",掘金
+http://nba.3691065.site/play/102116?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/det.png" group-title="Teams",活塞
+http://nba.3691065.site/play/102117?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/gsw.png" group-title="Teams",勇士
+http://nba.3691065.site/play/102118?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/hou.png" group-title="Teams",火箭
+http://nba.3691065.site/play/102119?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="NBALeaguePassIndianaPacers.us" tvg-logo="http://192.236.222.212:8090/logos/teams/ind.png" group-title="Teams",步行者
+http://nba.3691065.site/play/102120?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/lac.png" group-title="Teams",快船
+http://nba.3691065.site/play/102121?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="LosAngelesLakers.nba" tvg-logo="http://192.236.222.212:8090/logos/teams/lal.png" group-title="Teams",湖人
+http://nba.3691065.site/play/102122?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/mem.png" group-title="Teams",灰熊
+http://nba.3691065.site/play/102123?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/mia.png" group-title="Teams",热火
+http://nba.3691065.site/play/102124?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/mil.png" group-title="Teams",雄鹿
+http://nba.3691065.site/play/102125?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="NBALeaguePassTimberwolves.us" tvg-logo="http://192.236.222.212:8090/logos/teams/min.png" group-title="Teams",森林狼
+http://nba.3691065.site/play/102106?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/nop.png" group-title="Teams",鹈鹕
+http://nba.3691065.site/play/102107?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/nyk.png" group-title="Teams",尼克斯
+http://nba.3691065.site/play/102126?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/okc.png" group-title="Teams",雷霆
+http://nba.3691065.site/play/102108?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/orl.png" group-title="Teams",魔术
+http://nba.3691065.site/play/102127?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/phi.png" group-title="Teams",76人
+http://nba.3691065.site/play/102128?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="NBALeaguePassSuns.us" tvg-logo="http://192.236.222.212:8090/logos/teams/phx.png" group-title="Teams",太阳
+http://nba.3691065.site/play/102129?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/por.png" group-title="Teams",开拓者
+http://nba.3691065.site/play/102130?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/sac.png" group-title="Teams",国王
+http://nba.3691065.site/play/102131?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/sas.png" group-title="Teams",马刺
+http://nba.3691065.site/play/102132?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/tor.png" group-title="Teams",猛龙
+http://nba.3691065.site/play/102133?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="MeTV.us" tvg-logo="http://192.236.222.212:8090/logos/teams/uta.png" group-title="Teams",爵士
+http://nba.3691065.site/play/102134?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-logo="http://192.236.222.212:8090/logos/teams/was.png" group-title="Teams",奇才
+http://nba.3691065.site/play/102135?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 1
+http://nba.3691065.site/play/117476?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 2
+http://nba.3691065.site/play/117477?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 3
+http://nba.3691065.site/play/117478?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 4
+http://nba.3691065.site/play/117479?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 5
+http://nba.3691065.site/play/117480?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 6
+http://nba.3691065.site/play/117481?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 7
+http://nba.3691065.site/play/117482?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 8
+http://nba.3691065.site/play/117483?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 9
+http://nba.3691065.site/play/117484?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 10
+http://nba.3691065.site/play/117485?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 11
+http://nba.3691065.site/play/117486?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 12
+http://nba.3691065.site/play/118595?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 13
+http://nba.3691065.site/play/118596?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 14
+http://nba.3691065.site/play/118597?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/peacock-20261031-v2.png" group-title="Peacock",Peacock 15
+http://nba.3691065.site/play/118598?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/04c3d3867940ff71bfad11e131281d9b-thumbnail.jpg" group-title="PPV",[10:00] 奥兰多魔术 vs 菲尼克斯太阳 [ppv]
+http://nba.3691065.site/play/custom/1585?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c78073ceb47df2451fd38ad4ad1abe-thumbnail.jpg" group-title="PPV",[11:00] 迈阿密热火 vs 金州勇士 [ppv]
+http://nba.3691065.site/play/custom/1586?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21724c49f46faf47b36bbd9a16c9ed60-thumbnail.jpg" group-title="PPV",[08:00] 华盛顿奇才 vs 亚特兰大老鹰 [ppv]
+http://nba.3691065.site/play/custom/1624?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b756d4571d07c6e8d38730ffd03ebdc-thumbnail.jpg" group-title="PPV",[08:00] 波士顿凯尔特人 vs 夏洛特黄蜂 [ppv]
+http://nba.3691065.site/play/custom/1625?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8e159decd969aced65aa6af2ab7e1df1-thumbnail.jpg" group-title="PPV",[08:30] 费城76人 vs 克利夫兰骑士 [ppv]
+http://nba.3691065.site/play/custom/1626?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b7a2b07d4f3795d7c5bc012bb112757-thumbnail.jpg" group-title="PPV",[09:00] 犹他爵士 vs 达拉斯独行侠 [ppv]
+http://nba.3691065.site/play/custom/1627?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7717a8b9cf9896f700e13cfb8da0f049-thumbnail.jpg" group-title="PPV",[09:00] 俄克拉荷马城雷霆 vs 孟菲斯灰熊 [ppv]
+http://nba.3691065.site/play/custom/1628?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/019219e0cc2d17b189f3ddbf1301026e-thumbnail.jpg" group-title="PPV",[09:00] 多伦多猛龙 vs 密尔沃基雄鹿 [ppv]
+http://nba.3691065.site/play/custom/1629?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/019219e0cc2d17b189f3ddbf1301026e-thumbnail.jpg" group-title="PPV",[09:00] 多伦多猛龙 vs 密尔沃基雄鹿 [ppv]
+http://nba.3691065.site/play/custom/1630?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/80eb09d4cbd4fe38b48943b1a934a73a-thumbnail.jpg" group-title="PPV",[09:00] 明尼苏达森林狼 vs 新奥尔良鹈鹕 [ppv]
+http://nba.3691065.site/play/custom/1631?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/80eb09d4cbd4fe38b48943b1a934a73a-thumbnail.jpg" group-title="PPV",[09:00] 明尼苏达森林狼 vs 新奥尔良鹈鹕 [ppv]
+http://nba.3691065.site/play/custom/1632?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg" group-title="PPV",[11:00] 波特兰开拓者 vs 洛杉矶湖人 [ppv]
+http://nba.3691065.site/play/custom/1633?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg" group-title="PPV",[11:00] 波特兰开拓者 vs 洛杉矶湖人 [ppv]
+http://nba.3691065.site/play/custom/1634?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdcfdd24f4540951c579339fd6f94e06-thumbnail.jpg" group-title="PPV",[11:00] 圣安东尼奥马刺 vs 萨克拉门托国王 [ppv]
+http://nba.3691065.site/play/custom/1635?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdcfdd24f4540951c579339fd6f94e06-thumbnail.jpg" group-title="PPV",[11:00] 圣安东尼奥马刺 vs 萨克拉门托国王 [ppv]
+http://nba.3691065.site/play/custom/1636?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/nfl-network.png" group-title="PPV（备用，用美国节点）",[24小时] NFL电视网
+http://nba.3691065.site/play/custom/98?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/rally-tv.png" group-title="PPV（备用，用美国节点）",[24小时] 拉力电视
+http://nba.3691065.site/play/custom/72?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/04c3d3867940ff71bfad11e131281d9b-thumbnail.jpg" group-title="PPV（备用，用美国节点）",[NBA][11-06 10:00] 奥兰多魔术 vs 菲尼克斯太阳
+http://nba.3691065.site/play/custom/1612?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c78073ceb47df2451fd38ad4ad1abe-thumbnail.jpg" group-title="PPV（备用，用美国节点）",[NBA][11-06 11:00] 迈阿密热火 vs 金州勇士
+http://nba.3691065.site/play/custom/1613?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/phi.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/det.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=1d428a&color2=1d428a&q=65&w=100" group-title="PPV （备 2）",[正在直播] 费城76人 vs 底特律活塞
+http://nba.3691065.site/play/custom/627?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/atl.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/wsh.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=c8102e&color2=e31837&q=65&w=100" group-title="PPV （备 2）",[正在直播] 亚特兰大老鹰 vs 华盛顿奇才
+http://nba.3691065.site/play/custom/628?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/mil.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/bos.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=00471b&color2=008348&q=65&w=100" group-title="PPV （备 2）",[正在直播] 密尔沃基雄鹿 vs 波士顿凯尔特人
+http://nba.3691065.site/play/custom/629?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/lac.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=98002e&color2=12173f&q=65&w=100" group-title="PPV （备 2）",[11:30] 迈阿密热火 vs 洛杉矶快船
+http://nba.3691065.site/play/custom/1602?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="https://images.grassy-level770.workers.dev/?logo1=https://a.espncdn.com/i/teamlogos/nba/500/mia.png&logo2=https://a.espncdn.com/i/teamlogos/nba/500/lac.png&logo3=https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png&color1=98002e&color2=12173f&q=65&w=100" group-title="PPV （备 2）",[正在直播] 迈阿密热火 vs 洛杉矶快船
+http://nba.3691065.site/play/custom/1606?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/misc/now-sports-641.png" group-title="中文解说",Now sports 641 (Cathy 提供)
+http://nba.3691065.site/play/custom/1539?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="viutv.hk" tvg-logo="http://192.236.222.212:8090/logos/misc/viutv.png" group-title="中文解说",Viu TV
+http://nba.3691065.site/play/custom/1538?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="videoland-sports.tw" tvg-logo="http://192.236.222.212:8090/logos/misc/videoland-sports.png" group-title="中文解说",纬来体育
+http://nba.3691065.site/play/custom/1531?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="elta-sports-1.tw" tvg-logo="http://192.236.222.212:8090/logos/misc/elta-sports-1.png" group-title="中文解说",爱尔达体育1台
+http://nba.3691065.site/play/custom/1527?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="elta-sports-2.tw" tvg-logo="http://192.236.222.212:8090/logos/misc/elta-sports-2.png" group-title="中文解说",爱尔达体育2台
+http://nba.3691065.site/play/custom/1528?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-id="elta-sports-3.tw" tvg-logo="http://192.236.222.212:8090/logos/misc/elta-sports-3.png" group-title="中文解说",爱尔达体育3台
+http://nba.3691065.site/play/custom/1529?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_top10.png" group-title="NBA 集锦",11-05 每日 Top 10
+http://nba.3691065.site/play/custom/1641?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_DET_PHI.png" group-title="NBA 集锦",11-05 08:00 活塞 vs 76人
+http://nba.3691065.site/play/custom/1615?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_WAS_ATL.png" group-title="NBA 集锦",11-05 08:00 奇才 vs 老鹰
+http://nba.3691065.site/play/custom/1614?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_BKN_CHA.png" group-title="NBA 集锦",11-05 08:30 篮网 vs 黄蜂
+http://nba.3691065.site/play/custom/1616?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_BOS_MIL.png" group-title="NBA 集锦",11-05 08:30 凯尔特人 vs 雄鹿
+http://nba.3691065.site/play/custom/1620?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_NYK_CHI.png" group-title="NBA 集锦",11-05 08:30 尼克斯 vs 公牛
+http://nba.3691065.site/play/custom/1617?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_MEM_IND.png" group-title="NBA 集锦",11-05 09:00 灰熊 vs 步行者
+http://nba.3691065.site/play/custom/1618?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_NO_UTAH.png" group-title="NBA 集锦",11-05 09:00 鹈鹕 vs 爵士
+http://nba.3691065.site/play/custom/1621?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_OKC_CLE.png" group-title="NBA 集锦",11-05 09:00 雷霆 vs 骑士
+http://nba.3691065.site/play/custom/1619?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_HOU_MIN.png" group-title="NBA 集锦",11-05 09:30 火箭 vs 森林狼
+http://nba.3691065.site/play/custom/1622?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_DEN_TOR.png" group-title="NBA 集锦",11-05 10:00 掘金 vs 猛龙
+http://nba.3691065.site/play/custom/1623?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_PHX_POR.png" group-title="NBA 集锦",11-05 10:00 太阳 vs 开拓者
+http://nba.3691065.site/play/custom/1637?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_SAS_DAL.png" group-title="NBA 集锦",11-05 10:30 马刺 vs 独行侠
+http://nba.3691065.site/play/custom/1638?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_SAC_LAL.png" group-title="NBA 集锦",11-05 11:00 国王 vs 湖人
+http://nba.3691065.site/play/custom/1639?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/hl_LAC_MIA.png" group-title="NBA 集锦",11-05 11:30 快船 vs 热火
+http://nba.3691065.site/play/custom/1640?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/119728.png?v=retro" group-title="精选赛事推流",11月5日09：30 火箭 vs 森林狼
+http://nba.3691065.site/play/custom/1609?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/119722.png?v=retro" group-title="精选赛事推流",11月5日09：00 雷霆 vs 骑士
+http://nba.3691065.site/play/custom/1610?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
+#EXTINF:-1 tvg-logo="http://192.236.222.212:8090/logos/nbalp/119737.png?v=retro" group-title="精选赛事推流",11月5日11：30 热火@快船
+http://nba.3691065.site/play/custom/1611?t=sub_9e80dcaee0c367a1bcc27e51c3ee5e90
